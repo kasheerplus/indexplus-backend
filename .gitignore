@@ -31,4 +31,4 @@ lerna-debug.log*
 .env.local
 
 # NestJS
-nest-cli.json
+# nest-cli.json
